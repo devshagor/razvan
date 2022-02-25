@@ -9,6 +9,3 @@ bodyClass: page-about
 
 {% include banner.html %}
 {% include about.html %}
-{% include team.html %}
-{% include testimonial2.html %}
-{% include client-logo.html %}
