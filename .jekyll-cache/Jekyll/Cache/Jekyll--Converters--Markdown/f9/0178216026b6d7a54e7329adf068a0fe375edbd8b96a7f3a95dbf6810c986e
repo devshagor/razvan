@@ -1,0 +1,138 @@
+I":<p><!--  start banner--></p>
+<section class="banner banner-box" style="background-image: url(../assets/images/banner-shape.png);">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-md-7">
+                <div class="tp-block-content tp-banner-content">
+                    <h1 class="page-title">
+                        Testimonial
+                    </h1>
+                    <div>
+                        <ul class="breadcrumb banner-breadcrumb">
+                            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page"> Testimonial </li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- end col -->
+        </div><!-- end row -->
+    </div><!-- end container -->
+</section>
+<!-- end banner -->
+<!-- start testimonial -->
+<section class="testimonial-section section-padding">
+    <div class="container">
+       <div class="row">
+          <div class="col-12 text-center">
+             <div class="block-content">
+                <h2 class="block-heading">
+                   <span class="sub-heading">Customer Sotries</span>
+                   <strong><span class="highlight">20k+ Customers</span> Trust Us</strong>
+                </h2>
+             </div>
+          </div><!--  ./col -->
+       </div><!-- ./row -->
+       <div class="gap"></div>
+       <div class="row">
+          <div class="col-12">
+            <!-- start testimonial slider -->
+            
+             <div class="tp-owl-carousel owl-carousel owl-theme" data-loop="true" data-items="1" data-margin="20" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-sm-device="1" data-sm-device-nav="false" data-sm-device-dots="false" data-sm-device2="1" data-sm-device2-nav="false" data-sm-device2-dots="false" data-md-device="1" data-md-device-nav="false" data-md-device-dots="false" data-lg-device="1" data-lg-device-dots="false" data-lg-device-nav="false">
+
+                
+                <div class="testimonial-item row align-items-center justify-content-between">
+                   <div class="col-md-5">
+                      <div class="thumb">
+                         <img src="/assets/images/author-image1.jpg" alt="" />
+                      </div>
+                   </div>
+                   <div class="col-md-6">
+                      <div class="quote-content-box">
+                         <div class="quote-icon">
+                            <img src="../assets/images/quote.png" alt="" />
+                         </div>
+                         <p class="quote-desc">
+                            Starter has become the core of our phone support operation. We plan to continue rolling-out support in new languages and to different.
+                         </p>
+                         <div class="author-info">
+                            <img src="/assets/images/brand.jpg" alt="" />
+                            <p class="name"><span class="fw-600">Alen Hen</span> / Managing Director</p>
+                         </div>
+                      </div>
+                   </div>
+                </div><!-- end testimonial item  -->
+                
+                <div class="testimonial-item row align-items-center justify-content-between">
+                   <div class="col-md-5">
+                      <div class="thumb">
+                         <img src="/assets/images/author-image1.jpg" alt="" />
+                      </div>
+                   </div>
+                   <div class="col-md-6">
+                      <div class="quote-content-box">
+                         <div class="quote-icon">
+                            <img src="../assets/images/quote.png" alt="" />
+                         </div>
+                         <p class="quote-desc">
+                            Starter has become the core of our phone support operation. We plan to continue rolling-out support in new languages and to different.
+                         </p>
+                         <div class="author-info">
+                            <img src="/assets/images/brand.jpg" alt="" />
+                            <p class="name"><span class="fw-600">John Doe</span> / Web Director</p>
+                         </div>
+                      </div>
+                   </div>
+                </div><!-- end testimonial item  -->
+                
+                <div class="testimonial-item row align-items-center justify-content-between">
+                   <div class="col-md-5">
+                      <div class="thumb">
+                         <img src="/assets/images/author-image1.jpg" alt="" />
+                      </div>
+                   </div>
+                   <div class="col-md-6">
+                      <div class="quote-content-box">
+                         <div class="quote-icon">
+                            <img src="../assets/images/quote.png" alt="" />
+                         </div>
+                         <p class="quote-desc">
+                            Starter has become the core of our phone support operation. We plan to continue rolling-out support in new languages and to different.
+                         </p>
+                         <div class="author-info">
+                            <img src="/assets/images/brand.jpg" alt="" />
+                            <p class="name"><span class="fw-600">David Luies</span> / Jekyll Developer</p>
+                         </div>
+                      </div>
+                   </div>
+                </div><!-- end testimonial item  -->
+                
+                <div class="testimonial-item row align-items-center justify-content-between">
+                   <div class="col-md-5">
+                      <div class="thumb">
+                         <img src="/assets/images/author-image1.jpg" alt="" />
+                      </div>
+                   </div>
+                   <div class="col-md-6">
+                      <div class="quote-content-box">
+                         <div class="quote-icon">
+                            <img src="../assets/images/quote.png" alt="" />
+                         </div>
+                         <p class="quote-desc">
+                            Starter has become the core of our phone support operation. We plan to continue rolling-out support in new languages and to different.
+                         </p>
+                         <div class="author-info">
+                            <img src="/assets/images/brand.jpg" alt="" />
+                            <p class="name"><span class="fw-600">Alen Hen</span> / Managing Director</p>
+                         </div>
+                      </div>
+                   </div>
+                </div><!-- end testimonial item  -->
+                  
+             </div><!-- end testimonial-slider -->
+             
+          </div>
+       </div>
+    </div><!--  ./container  -->
+</section>
+<!-- end testimonial section -->
+:ET

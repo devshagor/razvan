@@ -1,0 +1,253 @@
+I"¸ <p><!--  start banner--></p>
+<section class="banner banner-box" style="background-image: url(../assets/images/banner-shape.png);">
+    <div class="container">
+        <div class="row justify-content-center text-center">
+            <div class="col-md-7">
+                <div class="tp-block-content tp-banner-content">
+                    <h1 class="page-title">
+                        Categories
+                    </h1>
+                    <div>
+                        <ul class="breadcrumb banner-breadcrumb">
+                            <li class="breadcrumb-item"><a href="/">Home</a></li>
+                            <li class="breadcrumb-item active" aria-current="page"> Categories </li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- end col -->
+        </div><!-- end row -->
+    </div><!-- end container -->
+</section>
+<!-- end banner -->
+
+<!-- start blog section -->
+<section class="blog-section section-padding">
+    <div class="container">
+        <div class="row gutter-40 justify-content-center">
+         
+         <div class="col-lg-4 col-md-6">
+            <article class="blog">
+    
+    <div class="blog-img">
+        <a href="/mappix-can-make-your-ommunity-like-neve-before/">
+            <img src="../assets/images/blog-image3.jpg" alt="Starter can make your ommunity like never before" />
+        </a>
+    </div>
+    
+   <div class="blog-content">
+      <div class="blog-meta">
+         <ul class="meta-list">
+            <li class="name">
+               By <a href="#">John Doe</a>
+            </li>
+            <li class="date">
+                
+                    Jan 1, 2022
+                
+            </li>
+         </ul>
+      </div>
+      <h4 class="blog-title">
+         <a href="/mappix-can-make-your-ommunity-like-neve-before/">
+            Starter can make your ommunity like never before
+         </a>
+      </h4>
+      
+        <p>Fanny pack chambray pinterest adaptogen salvia. Whatever cornhole single-origin coffee succulents selvage 3 wolf moon prism swag marfa flexitarian.</p>
+      
+      <a href="/mappix-can-make-your-ommunity-like-neve-before/" class="btn btn-outline-dark blog-btn">Read More</a>
+   </div>
+</article><!-- ./article -->
+         </div><!--  ./col -->
+         
+         <div class="col-lg-4 col-md-6">
+            <article class="blog">
+    
+    <div class="blog-img">
+        <a href="/engage-your-ommunity-like-never-before/">
+            <img src="../assets/images/blog-image2.jpg" alt="Engage your ommunity like never before" />
+        </a>
+    </div>
+    
+   <div class="blog-content">
+      <div class="blog-meta">
+         <ul class="meta-list">
+            <li class="name">
+               By <a href="#">John Doe</a>
+            </li>
+            <li class="date">
+                
+                    Jan 1, 2022
+                
+            </li>
+         </ul>
+      </div>
+      <h4 class="blog-title">
+         <a href="/engage-your-ommunity-like-never-before/">
+            Engage your ommunity like never before
+         </a>
+      </h4>
+      
+        <p>Fanny pack chambray pinterest adaptogen salvia. Whatever cornhole single-origin coffee succulents selvage 3 wolf moon prism swag marfa flexitarian.</p>
+      
+      <a href="/engage-your-ommunity-like-never-before/" class="btn btn-outline-dark blog-btn">Read More</a>
+   </div>
+</article><!-- ./article -->
+         </div><!--  ./col -->
+         
+         <div class="col-lg-4 col-md-6">
+            <article class="blog">
+    
+    <div class="blog-img">
+        <a href="/adum-software-industry-how-achive-the-goal/">
+            <img src="../assets/images/blog-image1.jpg" alt="Adum software industry how achive the goal" />
+        </a>
+    </div>
+    
+   <div class="blog-content">
+      <div class="blog-meta">
+         <ul class="meta-list">
+            <li class="name">
+               By <a href="#">John Doe</a>
+            </li>
+            <li class="date">
+                
+                    Jan 1, 2022
+                
+            </li>
+         </ul>
+      </div>
+      <h4 class="blog-title">
+         <a href="/adum-software-industry-how-achive-the-goal/">
+            Adum software industry how achive the goal
+         </a>
+      </h4>
+      
+        <p>Fanny pack chambray pinterest adaptogen salvia. Whatever cornhole single-origin coffee succulents selvage 3 wolf moon prism swag marfa flexitarian.</p>
+      
+      <a href="/adum-software-industry-how-achive-the-goal/" class="btn btn-outline-dark blog-btn">Read More</a>
+   </div>
+</article><!-- ./article -->
+         </div><!--  ./col -->
+         
+         <div class="col-lg-4 col-md-6">
+            <article class="blog">
+    
+    <div class="blog-img">
+        <a href="/adum-software-industry-how-achive-the-goal-community/">
+            <img src="../assets/images/blog-image1.jpg" alt="Adum software industry how achive the goal ommunity" />
+        </a>
+    </div>
+    
+   <div class="blog-content">
+      <div class="blog-meta">
+         <ul class="meta-list">
+            <li class="name">
+               By <a href="#">John Doe</a>
+            </li>
+            <li class="date">
+                
+                    Jan 1, 2022
+                
+            </li>
+         </ul>
+      </div>
+      <h4 class="blog-title">
+         <a href="/adum-software-industry-how-achive-the-goal-community/">
+            Adum software industry how achive the goal ommunity
+         </a>
+      </h4>
+      
+        <p>Fanny pack chambray pinterest adaptogen salvia. Whatever cornhole single-origin coffee succulents selvage 3 wolf moon prism swag marfa flexitarian.</p>
+      
+      <a href="/adum-software-industry-how-achive-the-goal-community/" class="btn btn-outline-dark blog-btn">Read More</a>
+   </div>
+</article><!-- ./article -->
+         </div><!--  ./col -->
+         
+        </div><!-- ./row -->
+    </div><!--  ./container  -->
+</section>
+<!-- end blog section -->
+
+<div class="container">
+    <div class="row">
+        
+        <div class="archive-group">
+            
+            <div id="#Business,Innovation"></div>
+            <p></p>
+
+            <h3 class="category-head">Business,Innovation</h3>
+            <a name="Business,Innovation"></a>
+            
+            
+            <article class="archive-item">
+            <h4><a href="/adum-software-industry-how-achive-the-goal-community/">Adum software industry how achive the goal ommunity</a></h4>
+            </article>
+            
+        </div>
+        
+        <div class="archive-group">
+            
+            <div id="#Software,Innovation"></div>
+            <p></p>
+
+            <h3 class="category-head">Software,Innovation</h3>
+            <a name="Software,Innovation"></a>
+            
+            
+            <article class="archive-item">
+            <h4><a href="/adum-software-industry-how-achive-the-goal/">Adum software industry how achive the goal</a></h4>
+            </article>
+            
+        </div>
+        
+        <div class="archive-group">
+            
+            <div id="#Innovation"></div>
+            <p></p>
+
+            <h3 class="category-head">Innovation</h3>
+            <a name="Innovation"></a>
+            
+            
+            <article class="archive-item">
+            <h4><a href="/engage-your-ommunity-like-never-before/">Engage your ommunity like never before</a></h4>
+            </article>
+            
+        </div>
+        
+        <div class="archive-group">
+            
+            <div id="#Technology"></div>
+            <p></p>
+
+            <h3 class="category-head">Technology</h3>
+            <a name="Technology"></a>
+            
+            
+            <article class="archive-item">
+            <h4><a href="/mappix-can-make-your-ommunity-like-neve-before/">Starter can make your ommunity like never before</a></h4>
+            </article>
+            
+        </div>
+        
+        <div class="archive-group">
+            
+            <div id="#Agency"></div>
+            <p></p>
+
+            <h3 class="category-head">Agency</h3>
+            <a name="Agency"></a>
+            
+            
+            <article class="archive-item">
+            <h4><a href="/mappix-can-make-your-ommunity-like-neve-before/">Starter can make your ommunity like never before</a></h4>
+            </article>
+            
+        </div>
+        
+    </div>
+</div>
+:ET
